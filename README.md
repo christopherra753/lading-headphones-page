@@ -1,0 +1,1 @@
+Pagina hecha con fines educativos para practicar los conceptos de HTML, CSS y JavaScript.
